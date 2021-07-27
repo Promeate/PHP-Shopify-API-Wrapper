@@ -1,6 +1,6 @@
 # Shopify API Wrapper
 By [Zapiet.com](http://www.zapiet.com) - Zapiet - Creators of the Store Pickup + Delivery app.
-Fork by promeate
+Fork by promeate updated tuesday
 
 ### Installing via Composer
 The recommended way to install the wrapper is through
